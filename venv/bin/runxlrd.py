@@ -1,4 +1,4 @@
-#!/media/jurgeon/disk1/projects/sw_admin/jet_demo3/venv/bin/python3
+#!/media/jurgeon/disk1/projects/sw_admin/jet_demo/venv/bin/python3
 # Copyright (c) 2005-2012 Stephen John Machin, Lingfo Pty Ltd
 # This script is part of the xlrd package, which is released under a
 # BSD-style licence.

@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/media/jurgeon/disk1/projects/sw_admin/jet_demo3/venv"
+VIRTUAL_ENV="/media/jurgeon/disk1/projects/sw_admin/jet_demo/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

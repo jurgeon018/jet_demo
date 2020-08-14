@@ -1,4 +1,4 @@
-#!/media/jurgeon/disk1/projects/sw_admin/jet_demo3/venv/bin/python3
+#!/media/jurgeon/disk1/projects/sw_admin/jet_demo/venv/bin/python3
 
 # Author:
 # Contact: grubert@users.sf.net

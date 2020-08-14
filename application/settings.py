@@ -41,7 +41,7 @@ INSTALLED_APPS = (
     'sw_shop',
 )
 X_FRAME_OPTIONS = 'SAMEORIGIN'
-
+SITE_ID = 1
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 SECRET_KEY = "config.get('common', 'secret_key')"
 DEBUG = True 

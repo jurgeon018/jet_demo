@@ -1,4 +1,4 @@
-#!/media/jurgeon/disk1/projects/sw_admin/jet_demo3/venv/bin/python3
+#!/media/jurgeon/disk1/projects/sw_admin/jet_demo/venv/bin/python3
 
 # $Id: rstpep2html.py 4564 2006-05-21 20:44:42Z wiemann $
 # Author: David Goodger <goodger@python.org>
