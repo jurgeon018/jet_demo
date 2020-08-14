@@ -11,7 +11,19 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-migrations 
+migrations
+migrations/
+**/migrations/
+**/migrations/*
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+__pycache__
+__pycache__/
+**/__pycache__/**
+!**/__pycache__
+*.pyc
+.pyc 
 
 
 
