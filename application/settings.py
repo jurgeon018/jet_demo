@@ -34,10 +34,13 @@ INSTALLED_APPS = (
     'nested_admin',
 
     
-    'core',
-    'people',
-    'menu',
     'editors',
+    'people',
+    'core',
+    'menu',
+
+
+    
     'sw_shop',
 )
 X_FRAME_OPTIONS = 'SAMEORIGIN'
