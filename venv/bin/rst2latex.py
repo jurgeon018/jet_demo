@@ -1,4 +1,4 @@
-#!/media/jurgeon/disk1/projects/sw_admin/jet_demo/venv/bin/python3
+#!/media/jurgeon/disk/projects/sw_admin/jet_demo/venv/bin/python3
 
 # $Id: rst2latex.py 5905 2009-04-16 12:04:49Z milde $
 # Author: David Goodger <goodger@python.org>

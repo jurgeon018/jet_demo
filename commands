@@ -1,0 +1,17 @@
+source venv/bin/activate
+
+pip3 install -r requirements.txt 
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py loaddata initial_data 
+python3 manage.py runserver 
+
+
+
+
+
+
+npm install --global gulp-cli
+npm install
+gulp
+gulp build 

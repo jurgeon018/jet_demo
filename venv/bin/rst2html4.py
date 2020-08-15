@@ -1,4 +1,4 @@
-#!/media/jurgeon/disk1/projects/sw_admin/jet_demo/venv/bin/python3
+#!/media/jurgeon/disk/projects/sw_admin/jet_demo/venv/bin/python3
 
 # $Id: rst2html4.py 7994 2016-12-10 17:41:45Z milde $
 # Author: David Goodger <goodger@python.org>

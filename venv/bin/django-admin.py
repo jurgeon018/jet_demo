@@ -1,4 +1,4 @@
-#!/media/jurgeon/disk1/projects/sw_admin/jet_demo/venv/bin/python3
+#!/media/jurgeon/disk/projects/sw_admin/jet_demo/venv/bin/python3
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
